@@ -11,7 +11,7 @@ export class StartseiteComponent implements OnInit {
 
   rezeptListe: Rezept[];
 
-  
+  /** Matrikelnummer: 8610724 */
 
   constructor(private data: DataService) { }
 
